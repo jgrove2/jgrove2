@@ -1,7 +1,7 @@
 # Hi there 👋
 ## About Me
 - ⚙️ Full stack developer with experience building scalable microservices and RESTful APIs Node.js, and .NET Core. I also have professional experience building SPAs and microfrontend services with React.
-- 🧠 Passionate about learning new technologies and building things — check out my latest projects here on GitHub or read more about them on my blog.
+- 🧠 Passionate about learning new technologies and building things — check out my latest projects here on GitHub or read more about them on my [blog](jgrove.dev).
 - 🌱 When I’m not working on full-stack applications or side projects, I enjoy running, hiking & backpacking, and caring for my ever-growing collection of houseplants.
 - 💬 Always happy to connect — feel free to reach out if you want to talk about backend architecture, side projects, or just swap trail recommendations!
 ### Reach out!
